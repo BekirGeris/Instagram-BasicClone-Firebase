@@ -1,4 +1,4 @@
-package com.begers.instagramclone;
+package com.begers.instagramclone.View;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
